@@ -321,5 +321,5 @@ function somefunction([x],y,z=10)
     console.log(x)
 }
 somefunction([10000,20000],30000)
-//z de 10 //y de 30000 //x de 10000 yazar
+//z de 10 //y de 30000 //x de 10000 yaza
 
